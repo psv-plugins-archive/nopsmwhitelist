@@ -1,3 +1,6 @@
+# NoPSMWhitelist  
+Disables the PSTV Whitelist for PlayStation Mobile games.  
+
 # Releases  
 v1.0: https://bitbucket.org/SilicaAndPina/nopsmwhitelist/downloads/noPsmWhitelist.skprx  
   
