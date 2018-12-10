@@ -1,5 +1,5 @@
 //NoWhitelist
-//Completely disable the PSTV Whitelist!
+//Disable PSM Whitelist  
 
 #include <stdio.h>
 #include <stdarg.h>
