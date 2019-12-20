@@ -1,4 +1,4 @@
-# No longer maintained- Please use DolcePolce (https://bitbucket.org/SilicaAndPina/DolcePolce
+# No longer maintained- Please use DolcePolce Instead (https://bitbucket.org/SilicaAndPina/DolcePolce)
 
 
 Disables the PSTV Whitelist for PlayStation Mobile games.  
